@@ -1,0 +1,6 @@
+a=int(input("Enter a number of rs.10 coins:"))
+b=int(input("Enter a number of rs.5 coins:"))
+c=int(input("Enter a number of rs.2 coins:"))
+d=int(input("Enter a number of rs.1 coins:"))
+t=(10*a)+(5*b)+(2*c)+(1*d) 
+print("The total amount in piggy bank is:",t)
