@@ -1,0 +1,4 @@
+# Solution as follows
+
+for i in range(55, 100, 3):
+    print(i)
