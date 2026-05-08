@@ -1,0 +1,5 @@
+# your code goes here
+# changed the index from 1,4 6, to 0, 3, 5; 
+s = input()    
+
+print(s[0] + s[3] + s[5])
